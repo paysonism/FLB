@@ -53,11 +53,11 @@ Step 6.
 
 Step 7.
 
-> Now you can use the bot to your needs! To use commands, make sure you are whispering to your selected bot account. The command prefix is !.
+> Now you can use the bot to your needs! To use commands, make sure you are whispering to your selected bot account. The command prefix is !
 
 Ex: !help - List of full commands
 
-Watch the (Tutorial)[] to get a better idea on how to install the bot and setup for 24/7 hosting!
+Watch the [tutorial]() to get a better idea on how to install the bot and setup for 24/7 hosting!
 
 
 ## Deployment
@@ -68,6 +68,6 @@ If you have any other issues / questions, feel free to join our <a href="https:/
 
 # Credits
 
-Made By: (P-Denny Gaming)[https://www.youtube.com/channel/UCObungL0NYOc5kPUPB3ADKg]
+Made By: [P-Denny Gaming](https://www.youtube.com/channel/UCObungL0NYOc5kPUPB3ADKg)
 
 
