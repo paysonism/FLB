@@ -1,5 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/P-DennyGamingYT/FLB.svg)](https://github.com//FLB/stargazers)
-[![Python version](https://img.shields.io/badge/python%2C%203.6%2C%203.7%2C%203.8%2C%203.9-blue.svg)](https://python.org)
+[![Python version](https://img.shields.io/badge/python%2C%203.7%2C%203.8%2C%203.9-blue.svg)](https://python.org)
 
 ### Recommended to use on Python v3.8 stable for bot.
 
