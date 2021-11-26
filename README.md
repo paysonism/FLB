@@ -3,7 +3,7 @@
 
 ### Recommended to use on Python v3.8 stable for bot.
 
-# FLB
+# FLB Pro
 
 The best free Fortnite lobby bot experience!
 
