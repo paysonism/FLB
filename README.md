@@ -26,7 +26,7 @@ A step by step series of examples that tell you how to get the bot running.
 
 Step 1.
 
-> "Clone or Download" the repository as a ZIP file.
+> Go to the releases tab and download the latest version.
 
 
 Step 2.
