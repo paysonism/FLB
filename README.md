@@ -55,7 +55,7 @@ Step 7.
 
 > Now you can use the bot to your needs! To use commands, make sure you are whispering to your selected bot account. The command prefix is !
 
-Ex: !help - List of full commands
+To find all commands, whisper to the bot and type !help. The bost will reply with a full list of commands.
 
 Watch the [tutorial]() to get a better idea on how to install the bot and setup for 24/7 hosting!
 
